@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "birthday-calculator": "^1.0.0",
+    "is-hex-color-code": "^1.0.0",
+    "long": "^5.2.3",
+    "mathjs": "^11.9.1",
+    "time-zone": "^2.0.0"
+  },
+  "devDependencies": {
+    "chalk": "^5.3.0"
+  }
+}
